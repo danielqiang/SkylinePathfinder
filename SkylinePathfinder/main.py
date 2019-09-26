@@ -7,7 +7,7 @@ def calc_time(dist, destinations):
     """
     Given a Euclidean path distance and the total number of
     classrooms to visit, return the approximate time needed
-    to deliver SkylinePathfinder to every classroom.
+    to deliver Singagrams to every classroom.
 
     :param dist: (float) Euclidean distance.
     :param destinations: (int) Number of destinations (classrooms).
@@ -25,7 +25,7 @@ def calc_time(dist, destinations):
 
 def main(destinations, show_graph=False):
     """
-    A program to approximate the time needed to deliver SkylinePathfinder
+    A program to approximate the time needed to deliver Singagrams
     to every classroom at my high school.
 
     Builds a 3D Euclidean Graph to model the school, then uses a greedy TSP
