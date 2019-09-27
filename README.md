@@ -4,13 +4,15 @@ Skyline Pathfinder is a 3D routefinding application for classrooms at Skyline Hi
 1. A backend framework that models all hallways and classrooms as edges and nodes in a graph. Supports interactive 3D visual displays:
   
    ![](https://i.imgur.com/3Z9Jvca.gif)
-   <sub><sup><sup>Classrooms and hallway junctions displayed as green and blue nodes respectively.</sup></sup></sub>
+   
+   <sub><sup>Classrooms and hallway junctions displayed as green and blue nodes respectively.</sup></sub>
 
 
    Route visualization:
 
    ![](https://i.imgur.com/OlBGsNx.gif)
-   <sub><sup><sup>Route shown in red.</sup></sup></sub>
+   
+   <sub><sup>Route shown in red.</sup></sub>
      
    And initialization from CSV data.
      
